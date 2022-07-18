@@ -89,7 +89,7 @@ To see a better description of the tasks, reference the manual.
 3. Identifying dead fish from the live ones (10 points)
 4. Creating photomosaic/mapping of the sea floor (20 points)
 
-<u>Current priorities:</u>
+#### Current priorities:
 1. Basic controls/functionality of the ROV
 2. Build the simulator
 
@@ -99,7 +99,7 @@ To see a better description of the tasks, reference the manual.
 + Can a raspberry pi interface with the motors directly?
 
 
-VR assets (world champtionship only)
+VR assets (world champtionship only):
 + Company logo
 + Company name, school name, location, tagline
 + 3 photos for the photo wall
