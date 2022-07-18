@@ -1,16 +1,16 @@
 ## 7-17 Competition Rules and Tasks
 
 ### <u>Explorer Challenge</u>
-[Explorer specs](https://materovcompetition.org/explorerspecs)  
-[Explorer Manuel](https://files.materovcompetition.org/2022/2022_EXPLORER_Manual_21_JAN_2022.pdf)  
-[Mission Flythrough and Tasks](https://vimeo.com/679543161)  
+[Explorer Specifications](https://materovcompetition.org/explorerspecs)  
+[Explorer Competition Manual](https://files.materovcompetition.org/2022/2022_EXPLORER_Manual_21_JAN_2022.pdf)  
+[Mission Flythrough and Tasks Video](https://vimeo.com/679543161)  
 
-##### <u>Software Team requirements:</u>
+### <u>Software Team requirements:</u>
 + Documentation
 	+ Flow charts, probably github
-+ Basic controls
++ Basic controls of the ROV
 + Autonomous functionality
-+ Object recognition
++ Object recognition (red line and dead fishies)
 
 ---
 ### **TASK 1: Marine Renewable Energy (100 points)**
