@@ -1,4 +1,4 @@
-## 7-17 Competition Rules and Tasks
+## Competition Rules and Tasks
 
 ### <u>Explorer Challenge</u>
 [Explorer Specifications](https://materovcompetition.org/explorerspecs)  
