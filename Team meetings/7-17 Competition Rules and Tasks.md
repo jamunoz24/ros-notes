@@ -11,8 +11,7 @@
 + Basic controls
 + Autonomous functionality
 + Object recognition
-
-
+  
 ### **TASK 1: Marine Renewable Energy (100 points)**
 ---
 
@@ -39,7 +38,7 @@
 + **Autonomous** docking (15 points)
 + Manually docking (5 points)
 
-
+  
 ### TASK 2: Offshore Aquaculture and Blue Carbon (100 points)
 
 ---
@@ -65,7 +64,7 @@
 + Prune an existing seagrass bed (5 points)
 + Plant a new seagrass bed (5 points)
 
-
+  
 ### TASK 3: Antarctica Then and Now - Endurance22 and MATE Floats (100 points)
 ---
 
