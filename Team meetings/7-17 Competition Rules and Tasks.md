@@ -13,6 +13,8 @@
 + Object recognition
 
 ### **TASK 1: Marine Renewable Energy (100 points)**
+---
+
 **1.1 Replacing a damaged section of an inter-array power cable**  
 +  Demonstrating video feed (5 points)
 +  Pulling 2 pins to remove the pipe (5 points x 2)
