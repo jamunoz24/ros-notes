@@ -13,8 +13,6 @@
 + Object recognition
   
 ### **TASK 1: Marine Renewable Energy (100 points)**
----
-
 **1.1 Replacing a damaged section of an inter-array power cable**  
 +  Demonstrating video feed (5 points)
 +  Pulling 2 pins to remove the pipe (5 points x 2)
@@ -40,9 +38,6 @@
 
   
 ### TASK 2: Offshore Aquaculture and Blue Carbon (100 points)
-
----
-
 **2.1 Inspecting an offshore aquaculture fish pen (red line)**  
 + **Autonomously** inspecting - following the red line (25 points)
 + Manually inspecting (10 points)
@@ -66,8 +61,6 @@
 
   
 ### TASK 3: Antarctica Then and Now - Endurance22 and MATE Floats (100 points)
----
-
 **3.1 MATE Floats!**  
 + Determine the location where the float will next surface (5 points)
 + Recovering the float (10 points)
