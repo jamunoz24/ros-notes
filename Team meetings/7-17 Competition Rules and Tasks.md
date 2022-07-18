@@ -12,7 +12,7 @@
 + Autonomous functionality
 + Object recognition
 
-  ---
+---
 ### **TASK 1: Marine Renewable Energy (100 points)**
 **1.1 Replacing a damaged section of an inter-array power cable**  
 +  Demonstrating video feed (5 points)
@@ -60,7 +60,7 @@
 + Prune an existing seagrass bed (5 points)
 + Plant a new seagrass bed (5 points)
 
-  ---
+---
 ### TASK 3: Antarctica Then and Now - Endurance22 and MATE Floats (100 points)
 **3.1 MATE Floats!**  
 + Determine the location where the float will next surface (5 points)
