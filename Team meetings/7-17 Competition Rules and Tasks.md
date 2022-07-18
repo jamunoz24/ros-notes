@@ -11,7 +11,8 @@
 + Basic controls
 + Autonomous functionality
 + Object recognition
-  
+
+  ---
 ### **TASK 1: Marine Renewable Energy (100 points)**
 **1.1 Replacing a damaged section of an inter-array power cable**  
 +  Demonstrating video feed (5 points)
@@ -36,7 +37,7 @@
 + **Autonomous** docking (15 points)
 + Manually docking (5 points)
 
-  
+---  
 ### TASK 2: Offshore Aquaculture and Blue Carbon (100 points)
 **2.1 Inspecting an offshore aquaculture fish pen (red line)**  
 + **Autonomously** inspecting - following the red line (25 points)
@@ -59,7 +60,7 @@
 + Prune an existing seagrass bed (5 points)
 + Plant a new seagrass bed (5 points)
 
-  
+  ---
 ### TASK 3: Antarctica Then and Now - Endurance22 and MATE Floats (100 points)
 **3.1 MATE Floats!**  
 + Determine the location where the float will next surface (5 points)
@@ -79,7 +80,7 @@
 + Measuring the length of the wreck within 10.1 to 20 cm (5 points)
 + Not within 20 cm of the true distance (0 points)
 + Bumping into the wreck (-5 points)
-
+---
 To see a better description of the tasks, reference the manual.
 
 #### Autonomous Functions:
