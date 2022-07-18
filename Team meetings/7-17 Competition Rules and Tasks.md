@@ -100,9 +100,9 @@ To see a better description of the tasks, reference the manual.
 
 
 VR assets (world champtionship only)
-	+ Company logo
-	+ Company name, school name, location, tagline
-	+ 3 photos for the photo wall
-	+ slideshow of images
-	+ 3D CAD or photo of ROV
-	+ Marketing display "commercial"
++ Company logo
++ Company name, school name, location, tagline
++ 3 photos for the photo wall
++ slideshow of images
++ 3D CAD or photo of ROV
++ Marketing display "commercial"
