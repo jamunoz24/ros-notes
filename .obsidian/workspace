@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Launch.md",
+            "file": "Team meetings/7-17 Competition Rules and Tasks.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Launch.md",
+                "file": "Team meetings/7-17 Competition Rules and Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,13 @@
   },
   "active": "b358dad9a798698b",
   "lastOpenFiles": [
-    "Parameters.md",
+    "Launch.md",
+    "Team meetings/7-15.md",
     "Notes.md",
-    "rosbag.md",
     "Services.md",
     "Actions.md",
-    "Launch.md",
+    "rosbag.md",
+    "Parameters.md",
     "wiki.ros.org/msg.md",
     "Meetings Notes 6.25.md"
   ]
